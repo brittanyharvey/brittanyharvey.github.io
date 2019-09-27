@@ -1,0 +1,38 @@
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+h2 {
+	color: #272;
+}
+
+.main {
+	background-image: url("./marblebackground.jpg");
+	background-repeat: repeat;
+	width: 100%;
+	height: 100%;
+	display: block;
+} 
+
+.titleContainer {
+	margin: auto;
+	top: 8rem;
+	position: relative;
+	display: block;
+	text-align: center;
+	height: 12rem;
+	width: 32rem;
+	border: medium solid #debc5b;
+	background-color: #fff;
+}
+
+.title {
+
+}
